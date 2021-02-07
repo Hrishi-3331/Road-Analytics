@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  width: 100%;
+  height: 100%;
+}
+
+.top-border {
+  width: 100%;
+  background-color: brown;
+  font-family: 'Roboto';
+  padding: 20px;
+}
+
+.title{
+  font-size: 15pt;
+  color: white;
+  font-weight: bold;
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "261123760270",
+    "project_id": "road-analytics-c05ba",
+    "storage_bucket": "road-analytics-c05ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261123760270:android:e20649f6a5cf8103c229df",
+        "android_client_info": {
+          "package_name": "com.devstudio3331.roadanalytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261123760270-0rrje0hcnsjvasddftdsro1aa58udm7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devstudio3331.roadanalytics",
+            "certificate_hash": "a29d011c1869412f9ca9ef8133b580db99419611"
+          }
+        },
+        {
+          "client_id": "261123760270-210n1ofkrcsrqoobi0qtdi2lfos5j847.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGTDt3SRo9PFDouaLGO0bSXy8xAJM8HhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261123760270-210n1ofkrcsrqoobi0qtdi2lfos5j847.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
